@@ -14,7 +14,7 @@
   "author": "Gangadhar N",
   "license": "ISC",
   "dependencies": {
-    "@sendgrid/mail": "^7.2.0",
+    "@sendgrid/mail": "^8.1.5",
     "bcrypt": "^5.0.0",
     "express": "^4.17.1",
     "jsonwebtoken": "^9.0.0",
